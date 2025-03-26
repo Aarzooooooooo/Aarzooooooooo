@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**Aarzooooooooo/Aarzooooooooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Aarzoo Gupta, currently pursuing my B.Tech in Artificial Intelligence and Machine Learning (AIML) from KCC Institute of Technology and Management. I have a strong passion for technology, especially in the field of AI, and I’m always eager to explore how machine learning can solve real-world problems. My journey in computer science has equipped me with skills in algorithms, and coding, which I’m constantly improving. I enjoy staying up-to-date with the latest tech trends, and I’m always looking for opportunities to apply what I’ve learned in innovative ways.
 
-Here are some ideas to get you started:
+### Languages
+<p align="center">
+         <img src="https://skillicons.dev/icons?i=js,c,python,html,css" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Tools
+<p align="center">
+            <img src="https://skillicons.dev/icons?i=vscode,github,git" />
+</p>
+<br>
